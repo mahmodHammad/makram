@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "title": "Lectures",
+      "label": "Dr-Makram Lectuers",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "lec1",
+          "label": "intro to Gamma function",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1_s9fC5TClxHryMUtwthKgGucM5-FGvMn/view"
+          }
+        },
+        {
+          "title": "lec2",
+          "label": "The Gamma function - intro to beta function",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1lK9Ou9nx2_Szb-uMBBmdzYGyG583_rqW/view"
+          }
+        },
+        {
+          "title": "lec3",
+          "label": "problems on Gamma&Beta functions - intro to series power series",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1jvexIUO7QBNNz4uPFfub-aLx4tZh8lOH/view"
+          }
+        },
+        {
+          "title": "lec4",
+          "label": "power series  (ordinary) point ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1SvjrnrZScIHeogaOX8zWucZp6J9Qc_3m/view"
+          }
+        },
+        {
+          "title": "lec5",
+          "label": "power series (reguler singular) point case 1 ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1I7yD71oLsjffT914cyeFMOdvaAZ5pd3Z/view"
+          }
+        },
+        {
+          "title": "lec6",
+          "label": "power series (reguler singular) point case 1 -- Revision on complex numbers",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1pnodJvcxZtGhBtybNadOICKXjrMbw_km/view"
+          }
+        },
+        {
+          "title": "lec7",
+          "label": "funcitons of complex variables (transformation)",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1b-IV5Q5qbjxTA_X2gUTdGHfkCklhANA-/view"
+          }
+        },
+        {
+          "title": "lec8",
+          "label": "funcitons of complex variables (Linear- Reciporcal) Transformation",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1K7e1i7V3G2hAyRGulyEoFRiJyy_u8oJL/view"
+          }
+        },
+        {
+          "title": "lec9",
+          "label": "Point sets in the complex plane",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/17osYh3D5bOhk7Y1cocdqUAp5PGAxQnF1/view"
+          }
+        },
+        {
+          "title": "lec10",
+          "label": "diffrentiablility (theorem) -  analytic functions",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1HT8i1nyZHsJNOPkI611S2OM1qCZhdbgp/view"
+          }
+        },
+        {
+          "title": "lec11",
+          "label": "polar coordinates - the logarithmic function",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1Egv7tvuF4C9mNEe1HCaAvhuPi4EzeQ7D/view"
+          }
+        },
+        {
+          "title": "lec12",
+          "label": "problems on complex functions ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1y8ZU875knhlYovx7SHsIPAmVRodDFTFT/view"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "label": "",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "Gamma,Beta",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1Vs1dwJkIMNaI7KRY6fdyWMhWR9DatLna/view"
+          }
+        },
+        {
+          "title": "power series",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1-N0gEJBtzHS0OUP_jJC_osMAd75XzhRr/view"
+          }
+        },
+        {
+          "title": "foorbenius",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/11GJiTS2xQMEPZxq7lYyL9LbLLsZNkzwt/view"
+          }
+        },
+        {
+          "title": "Complex 1",
+          "label": "function of complec variables   -  Elementary transformation",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/173ynBBF2RDOz7eBrzdYnorXRuNe3GCqD/view"
+          }
+        },
+        {
+          "title": "complex 2",
+          "label": "cauchy riemann equation -- harmonic equation -- proofs",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/19F8mfphsphClw7a6EpL_LTnxmwqwIr_D/view"
+          }
+        },
+        {
+          "title": "complex 3",
+          "label": "Elementary functions ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1WCKIBkUeA0yp0FI7-sOyjnsjO4-UBjX8/view"
+          }
+        }
+      ]
+    },
+    {
+      "title": "video",
+      "label": " ",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "sections",
+          "label": "",
+          "value": {
+            "video": {
+              "h1": "Eng Amr-Khaled",
+              "rec": "https://www.youtube.com/playlist?list=PL6ElMp8lKLCCxhMAQWb7r_pXKXRjl3hUO&fbclid=IwAR2CYHEXkpmfpNOhqKCtARR00t99CHwKyKkjxi2JT56nEcQoJ7HnzMCrub0"
+            }
+          }
+        },
+        {
+          "title": "Dr-makram",
+          "label": "",
+          "value": {
+            "video": {
+              "h1": "Dr-Makram 2017",
+              "rec": "https://www.youtube.com/playlist?list=PLS7VnCSZEleqTJURtP7_-Z71Enbc7oe_m&fbclid=IwAR3ST7zVDC2JuXGO-dvT9cSjr_XWqCx0vfPQSMhWWOSsOAvbyjorJYWcmQg"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Revisions",
+      "label": " ",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "Midterm Revision ",
+          "label": "special functions - powerseries - probability",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1J8SVbaebA30GJIezhLaKP_Ulhckw9uUM/view"
+          }
+        },
+        {
+          "title": "ٌfinal Revision 1 (2018)",
+          "label": "special functions - powerseries [WILL BE UPDATED]",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1bCPiYZcrFrXuk4C1rX3FEwYIAhYXg3IP/view"
+          }
+        },
+        {
+          "title": "final Rev 2 (2018)",
+          "label": "Complex bariables [WILL BE UPDATED]",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1LhnrntzyCZKTGKFZHH_cNzx7rvC3Dzgx/view"
+          }
+        },
+        {
+          "title": "Final rev rec ",
+          "label": "",
+          "value": {
+            "video": {
+              " h1": "Final Revisions records ",
+              "rec": "https://www.youtube.com/playlist?list=PL6ElMp8lKLCA7hx8VDOzWOLh0TGpQ9-kl"
+            }
+          }
+        },
+        {
+          "title": "Mid-term rev rec ",
+          "label": "",
+          "value": {
+            "video": {
+              " h1": "Mid-term revison records  ",
+              "rec": "https://www.youtube.com/playlist?list=PL6ElMp8lKLCDi9cu7YGOStPXfj-VRHmE3"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
