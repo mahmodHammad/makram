@@ -156,6 +156,20 @@
           }
         },
         {
+          "title": "summaries",
+          "label": " ",
+          "hasNestedButtons": true,
+          "value": [
+            {
+              "title": "Lecture problems",
+              "label": "by youssef muhammad",
+              "value": {
+                "pdf": "https://drive.google.com/file/d/1vKjQYR2APuvD4LBqmxDHrcaeZa3VRs2F/view?fbclid=IwAR3PMPLx1RfpWoZA6Ov53hYvOvuzHZKPmD3oKyuef8ZvIcAA5ARjHidYwZE"
+              }
+            }
+          ]
+        },
+        {
           "title": "Dr-makram",
           "label": "",
           "value": {
@@ -191,26 +205,6 @@
           "label": "Complex bariables",
           "value": {
             "pdf": "https://drive.google.com/file/d/1xfTMmzooNtnPjjhr_D-3ztpb4j1dN2O6/view"
-          }
-        },
-        {
-          "title": "Final rev rec ",
-          "label": "",
-          "value": {
-            "video": {
-              " h1": "Final Revisions records ",
-              "rec": "https://www.youtube.com/playlist?list=PL6ElMp8lKLCA7hx8VDOzWOLh0TGpQ9-kl"
-            }
-          }
-        },
-        {
-          "title": "Mid-term rev rec ",
-          "label": "",
-          "value": {
-            "video": {
-              " h1": "Mid-term revison records  ",
-              "rec": "https://www.youtube.com/playlist?list=PL6ElMp8lKLCDi9cu7YGOStPXfj-VRHmE3"
-            }
           }
         }
       ]
